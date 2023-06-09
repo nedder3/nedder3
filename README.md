@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ariel Jaime</h1>
+<h1 align="center">Hi 👋, I'm Ariel </h1>
 <h3 align="center">An avid learner, flexible to any software. Enjoys coding and creative thinking</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nedder3&label=Profile%20views&color=0e75b6&style=flat" alt="nedder3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nedder3" alt="nedder3" /></a> </p>
+
 
 - 🌱 I’m currently learning **Flask**
 
@@ -23,6 +23,8 @@
 <p><a href="https://www.buymeacoffee.com/nedder3"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nedder3" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nedder3&show_icons=true&locale=en&layout=compact" alt="nedder3" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nedder3" alt="nedder3" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nedder3&show_icons=true&locale=en" alt="nedder3" /></p>
 
