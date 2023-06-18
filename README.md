@@ -5,11 +5,11 @@
 
 
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning : **Flask**
 
-- 📫 How to reach me **arij.dev@gmail.com**
+- 📫 How to reach me : **arij.dev@gmail.com**
 
-- ⚡ Fun fact **i like play world of warcraft.**
+- ⚡ Fun fact : **i like play world of warcraft.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
