@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning : **Laravel**
+- 🌱 I’m currently learning: **Laravel**
 
 - 📫 How to reach me : **arij.dev@gmail.com**
 
