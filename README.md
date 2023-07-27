@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I'm Ariel </h1>
-<h3 align="center">An avid learner , flexible to any software. Enjoys coding and creative thinking</h3>
+<h3 align="center">An avid learner ,flexible to any software. Enjoys coding and creative thinking</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nedder3&label=Profile%20views&color=0e75b6&style=flat" alt="nedder3" /> </p>
 
