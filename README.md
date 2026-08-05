@@ -1,6 +1,6 @@
-<!-- Banner animado superior (Bypass de caché con altura 248) -->
+<!-- Banner animado superior (Bypass de caché con Markdown estándar y v=4) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=248&section=header&text=Nedder3&fontSize=70&theme=tokyonight&desc=Fullstack%20%26%20Game%20Developer&descAlign=70&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Nedder3&fontSize=70&theme=tokyonight&desc=Fullstack%20%26%20Game%20Developer&descAlign=70&descAlignY=55&v=4" width="100%" alt="Nedder3 Header" />
 </div>
 
 <!-- Mensaje de bienvenida cyberpunk -->
@@ -146,7 +146,7 @@ Mis publicaciones técnicas más recientes son indexadas automáticamente por un
   <br />
   <br />
 
-  <!-- Contador de visitas adaptado a Tokyo Night -->
-  <img src="https://komarev.com/ghvc/?username=nedder3&color=bb9af7&style=flat-square&label=Vistas%20de%20Perfil" alt="Perfil de nedder3" />
+  <!-- Contador de visitas adaptado a Tokyo Night y corregido a ghpvc -->
+  <img src="https://komarev.com/ghpvc/?username=nedder3&color=bb9af7&style=flat-square&label=Vistas%20de%20Perfil&v=4" alt="Perfil de nedder3" />
 
 </div>
