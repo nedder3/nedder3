@@ -1,6 +1,6 @@
-<!-- Banner animado superior -->
+<!-- Banner animado superior (Bypass de caché con altura 248) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Nedder3&fontSize=70&theme=tokyonight&desc=Fullstack%20%26%20Game%20Developer&descAlign=70&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=248&section=header&text=Nedder3&fontSize=70&theme=tokyonight&desc=Fullstack%20%26%20Game%20Developer&descAlign=70&descAlignY=55" width="100%" />
 </div>
 
 <!-- Mensaje de bienvenida cyberpunk -->
@@ -75,29 +75,21 @@ Aquí se listan las tecnologías y herramientas que domino, clasificadas y con s
 
 ---
 
-### 🏆 Trofeos de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nedder3&theme=tokyonight&margin-w=15&margin-h=15&column=4" alt="GitHub Profile Trophies" />
-</div>
-
----
-
 ### 📊 Estadísticas Dinámicas
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=nedder3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de nedder3" height="195px" />
+        <img src="https://github-stats-extended.vercel.app/api?username=nedder3&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Estadísticas de nedder3" height="195px" />
       </td>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedder3&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes de nedder3" height="195px" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nedder3&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Lenguajes de nedder3" height="195px" />
       </td>
     </tr>
     <tr>
       <td align="center" valign="top" colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nedder3&theme=tokyonight&hide_border=true" alt="Racha de nedder3" width="100%" />
+        <img src="https://streak-stats.demolab.com/?user=nedder3&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Racha de nedder3" width="100%" />
       </td>
     </tr>
   </table>
@@ -112,12 +104,12 @@ Aquí se listan las tecnologías y herramientas que domino, clasificadas y con s
     <tr>
       <td>
         <a href="https://github.com/nedder3/Nu-sik">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nedder3&repo=Nu-sik&theme=tokyonight&hide_border=true" alt="Nu-sik Project Card" />
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=nedder3&repo=Nu-sik&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Nu-sik Project Card" />
         </a>
       </td>
       <td>
         <a href="https://github.com/nedder3/ahorrabot-app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nedder3&repo=ahorrabot-app&theme=tokyonight&hide_border=true" alt="ahorrabot-app Project Card" />
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=nedder3&repo=ahorrabot-app&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="ahorrabot-app Project Card" />
         </a>
       </td>
     </tr>
