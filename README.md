@@ -1,34 +1,160 @@
-<h1 align="center">Hi  👋, I'm Ariel </h1>
-<h3 align="center">An avid learner ,flexible to any software. Enjoys coding and creative thinking</h3>
+<!-- Banner animado superior -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Nedder3&fontSize=70&theme=tokyonight&desc=Fullstack%20%26%20Game%20Developer&descAlign=70&descAlignY=55" width="100%" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nedder3&label=Profile%20views&color=0e75b6&style=flat" alt="nedder3" /> </p>
+<!-- Mensaje de bienvenida cyberpunk -->
+<div align="center">
+  <h2>🌌 Bienvenido a mi nexo digital en la red virtual</h2>
+  <p><i>"Traduzco lógica en experiencias interactivas, mecánicas inmersivas y código limpio."</i></p>
+</div>
 
+---
 
+### 👤 Sobre Mí
 
-- 🌱 I’m currently learning:**Laravel**
+Soy un desarrollador de software y diseñador de videojuegos apasionado por conectar sistemas lógicos robustos con experiencias visuales interactivas. Me especializo en arquitecturas de backend eficientes, aplicaciones móviles híbridas y el desarrollo de mecánicas de juego en 2D y 3D.
 
-- 📫 How to reach me : **arij.dev@gmail.com**
+*   🚀 **Proyectos Actuales:** Desarrollando **Nu-sik** (Discord Rich Presence local para YouTube Music en Windows) y expandiendo aplicaciones híbridas con Expo.
+*   🧠 **Enfoque Actual:** Profundizando en microservicios, arquitecturas orientadas a eventos y optimización de bases de datos.
+*   🎮 **Desarrollo de Videojuegos:** Diseñando físicas e interfaces para títulos independientes en **Unity3D** y **Godot Engine**.
+*   💬 **Hablemos sobre:** Ingeniería de software, desarrollo fullstack, robótica/IoT y game design.
+*   ✉️ **Contacto:** Escríbeme directamente a [neddev3@gmail.com](mailto:neddev3@gmail.com) para colaboraciones u oportunidades profesionales.
 
-- ⚡ Fun fact : **i like play world of warcraft.**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Stack Tecnológico
+
+Aquí se listan las tecnologías y herramientas que domino, clasificadas y con sus colores corporativos exactos:
+
+#### 🎨 Frontend
 <p align="left">
-<a href="https://www.linkedin.com/in/ariel-jaime/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ariel-jaime/" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>   
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a></p>
+#### ⚙️ Backend & Motores de Juego
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Lazarus-%230A5F9B.svg?style=for-the-badge&logo=lazarus&logoColor=white" alt="Lazarus" />
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Godot_Engine-%23478CBF.svg?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
+</p>
 
+#### 💾 Bases de Datos & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
+#### 🛠️ Herramientas & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nedder3&show_icons=true&locale=en&layout=compact" alt="nedder3" /></p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nedder3" alt="nedder3" /></a> </p>
+### 🖥️ Entorno de Desarrollo (Dev Setup)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nedder3&show_icons=true&locale=en" alt="nedder3" /></p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Editor-VS_Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/S.O.-Windows_11-%230078D4.svg?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Terminal-PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nedder3&" alt="nedder3" /></p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/nedder3"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nedder3" /></a></p><br><br>
+### 🏆 Trofeos de GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nedder3&theme=tokyonight&margin-w=15&margin-h=15&column=4" alt="GitHub Profile Trophies" />
+</div>
+
+---
+
+### 📊 Estadísticas Dinámicas
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=nedder3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de nedder3" height="195px" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedder3&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes de nedder3" height="195px" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" colspan="2">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nedder3&theme=tokyonight&hide_border=true" alt="Racha de nedder3" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### ⭐ Proyectos Destacados
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/nedder3/Nu-sik">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nedder3&repo=Nu-sik&theme=tokyonight&hide_border=true" alt="Nu-sik Project Card" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nedder3/ahorrabot-app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nedder3&repo=ahorrabot-app&theme=tokyonight&hide_border=true" alt="ahorrabot-app Project Card" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### ✍️ Publicaciones Recientes
+
+Mis publicaciones técnicas más recientes son indexadas automáticamente por un robot programado en GitHub Actions cada hora:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🏅 Certificaciones y Logros
+
+*   🎓 **Prácticas Profesionalizantes II (Ahorrabot-App)** — Desarrollo y despliegue exitoso de app en Expo con persistencia SQLite y asistencia por voz.
+*   🎮 **Game Jams & Proyectos Interactivos (Payne Team)** — Diseño y producción de videojuegos independientes como *Pinchomania* y *Bola8*.
+*   🏗️ **Arquitectura de Software** — Especialización en el diseño de REST APIs e integraciones seguras utilizando C# y Java.
+
+---
+
+### 🤝 Conectividad & Visitas
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu_usuario_linkedin)
+  [![Portafolio](https://img.shields.io/badge/Portafolio-%23000000.svg?style=for-the-badge&logo=astro&logoColor=white)](https://nedder3.github.io)
+  [![Email](https://img.shields.io/badge/Email-Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neddev3@gmail.com)
+
+  <br />
+  <br />
+
+  <!-- Contador de visitas adaptado a Tokyo Night -->
+  <img src="https://komarev.com/ghvc/?username=nedder3&color=bb9af7&style=flat-square&label=Vistas%20de%20Perfil" alt="Perfil de nedder3" />
+
+</div>

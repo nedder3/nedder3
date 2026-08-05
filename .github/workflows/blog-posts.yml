@@ -1,0 +1,19 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Se ejecuta automáticamente cada hora
+    - cron: '0 * * * *'
+  workflow_dispatch: # Te permite ejecutarlo manualmente cuando quieras
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # REEMPLAZA "@tu_usuario_medium" con tu usuario real de Medium (por ejemplo, @nedder3)
+          feed_list: "https://medium.com/feed/@tu_usuario_medium"
