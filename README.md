@@ -118,14 +118,6 @@ Aquí se listan las tecnologías y herramientas que domino, clasificadas y con s
 
 ---
 
-### ✍️ Publicaciones Recientes
-
-Mis publicaciones técnicas más recientes son indexadas automáticamente por un robot programado en GitHub Actions cada hora:
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ### 🏅 Certificaciones y Logros
 
