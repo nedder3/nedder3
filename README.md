@@ -78,32 +78,32 @@ Combino la construcción de software con la mentoría y la formación técnica, 
 
 *Menos aplicaciones de consumo, más componentes de infraestructura de software diseñados con rigurosidad matemática y lógica:*
 
-#### 🌀 [java-event-bus](https://github.com/nedder3) — Event Bus Asíncrono de Alta Concurrencia
+#### 🌀 [java-event-bus](https://github.com/nedder3/java-event-bus) — Event Bus Asíncrono de Alta Concurrencia
 > **Descripción:** Un bus de eventos asíncrono en memoria diseñado para sistemas monolíticos modulares de alto rendimiento.  
 > **Detalles Técnicos:** Basado en colas concurrentes y pools de hilos personalizados. Utiliza mecanismos de bloqueo no bloqueantes (*Non-blocking algorithms*) y propagación de eventos asíncronos con baja sobrecarga de memoria.
 > *   *Tecnologías:* Java 21, Concurrency API, ExecutorService.
 
-#### 💾 [distributed-cache-engine](https://github.com/nedder3) — Motor de Caché Distribuido In-Memory
+#### 💾 [distributed-cache-engine](https://github.com/nedder3/distributed-cache-engine) — Motor de Caché Distribuido In-Memory
 > **Descripción:** Un componente de almacenamiento en caché clave-valor distribuido capaz de replicar datos de forma asíncrona entre múltiples nodos.  
 > **Detalles Técnicos:** Implementa estrategias de desalojo avanzadas (LRU, LFU) y consistencia eventual mediante replicación activa-activa orientada a redes internas confiables.
 > *   *Tecnologías:* Java, gRPC, TCP Sockets, ConcurrentHashMap.
 
-#### ⚙️ [cqrs-core-lib](https://github.com/nedder3) — Librería de Arquitectura de Comandos y Consultas
+#### ⚙️ [cqrs-core-lib](https://github.com/nedder3/cqrs-core-lib) — Librería de Arquitectura de Comandos y Consultas
 > **Descripción:** Framework desacoplado para la implementación del patrón CQRS (Command Query Responsibility Segregation) con soporte para Event Sourcing.  
 > **Detalles Técnicos:** Separación física de los modelos de lectura y escritura. Implementa bus de comandos síncrono/asíncrono y proyecciones de base de datos en tiempo real mediante disparadores de eventos.
 > *   *Tecnologías:* Java, Spring Core, Event Sourcing Pattern.
 
-#### 🚦 [custom-api-gateway](https://github.com/nedder3) — API Gateway y Ruteador Inverso L7
+#### 🚦 [custom-api-gateway](https://github.com/nedder3/custom-api-gateway) — API Gateway y Ruteador Inverso L7
 > **Descripción:** API Gateway y ruteador inverso dinámico de capa 7 para microservicios con balanceo de carga integrado.  
 > **Detalles Técnicos:** Implementa filtros de pre y post ruteo, políticas adaptativas de limitación de tasa (*Token Bucket Rate Limiting*) y manejo de tolerancia a fallas mediante Circuit Breaker.
 > *   *Tecnologías:* Java, Spring Cloud Gateway, Redis, Resilience4j.
 
-#### 🧠 [rule-engine-core](https://github.com/nedder3) — Motor de Reglas de Negocio Dinámico
+#### 🧠 [rule-engine-core](https://github.com/nedder3/rule-engine-core) — Motor de Reglas de Negocio Dinámico
 > **Descripción:** Un intérprete dinámico de reglas condicionales complejas para desacoplar flujos de negocio cambiantes del código compilado.  
 > **Detalles Técnicos:** Permite cargar reglas escritas en DSL o JSON durante el tiempo de ejecución y evaluarlas contra objetos Java (*POJOs*) en microsegundos usando evaluación de árbol binario.
 > *   *Tecnologías:* Java, Jackson, OOP Design Patterns.
 
-#### 🔒 [auth-service-security](https://github.com/nedder3) — Servidor de Autorización Centralizado (OAuth2/OIDC)
+#### 🔒 [auth-service-security](https://github.com/nedder3/auth-service-security) — Servidor de Autorización Centralizado (OAuth2/OIDC)
 > **Descripción:** Sistema de autenticación y autorización seguro para arquitecturas distribuidas.  
 > **Detalles Técnicos:** Emisión y validación asíncrona de tokens JWT usando criptografía asimétrica (RSA/ECDSA), endpoints de JWKS para rotación de llaves, e integración transparente con mecanismos de MFA.
 > *   *Tecnologías:* Java, Spring Security OAuth2, PostgreSQL.
