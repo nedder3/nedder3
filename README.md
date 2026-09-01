@@ -1,155 +1,92 @@
-<!-- Banner personalizado Cyberpunk/Tokyo Night -->
+<!-- Banner -->
 <div align="center">
   <img src="./banner.jpg" width="100%" alt="Nedder3 Header" />
 </div>
 
-<!-- Mensaje de presentación de Arquitecto -->
 <div align="center">
-  <h2>🏛️ Software Architect & Backend Engineer</h2>
+  <h2>Software Architect & Backend Engineer</h2>
   <p><i>"Don't show twenty apps. Show a few, designed impeccably."</i></p>
 </div>
 
 ---
 
-### 👤 Perfil Profesional
+### About
 
-Software Expert especializado en **Java** con experiencia como **Software Architect** y **Backend Engineer**, enfocado en el diseño y desarrollo de sistemas escalables, arquitecturas modernas y soluciones de alta calidad. Apasionado por la ingeniería de software, el diseño arquitectónico, las buenas prácticas y el aprendizaje continuo. 
+Software engineer focused on **infrastructure-level components** — event buses, cache engines, rule interpreters — built with the same rigor you'd apply to production distributed systems. I design for correctness under concurrency, not just "it works on my machine."
 
-Combino la construcción de software con la mentoría y la formación técnica, ayudando a desarrollar equipos y profesionales mientras creo soluciones mantenibles, robustas y orientadas al largo plazo.
-
----
-
-### 🏗️ Pilares de Diseño & Arquitectura
-
-*   🧱 **Clean Architecture & DDD (Domain-Driven Design):** Aislamiento estricto de las reglas de negocio, desacoplando la lógica central del framework y de la infraestructura.
-*   ⚡ **Concurrencia Avanzada & Multithreading:** Optimización de flujos de ejecución asíncronos y diseño de procesos de baja latencia en entornos multihilo.
-*   🌐 **Sistemas Distribuidos y Mensajería:** Implementación de resiliencia y consistencia eventual mediante patrones como *Saga*, *Outbox* y mensajería orientada a eventos.
-*   🧩 **Patrones de Diseño y Principios SOLID:** Aplicación rigurosa de patrones estructurales, de comportamiento y creacionales para asegurar un código altamente mantenible y extensible.
+Previously mentored development teams on Clean Architecture, SOLID, and domain-driven design. I believe the best code is the code you don't have to rewrite.
 
 ---
 
-### 🛠️ Stack Tecnológico Curado
+### Core Competencies
 
-#### ☕ Lenguajes Principales
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+- **Concurrency & Non-Blocking Algorithms** — CAS-based lock-free structures, `CompletableFuture` orchestration, `ExecutorService` tuning, bounded queues with backpressure
+- **Architecture** — Clean Architecture, DDD, CQRS + Event Sourcing, microservice decomposition
+- **Distributed Systems** — Event-driven messaging, eventual consistency, Saga pattern, Outbox
+- **Backend** — Java 21, Spring Boot, .NET, gRPC, REST/OpenAPI
+
+---
+
+### Tech Stack
+
+| Layer | Tools |
+|---|---|
+| Languages | Java 21, Python, C#, TypeScript, SQL |
+| Frameworks | Spring Boot, Spring Security, .NET Core, gRPC |
+| Data | PostgreSQL, Redis, Apache Kafka, SQLite |
+| Infrastructure | Docker, AWS (S3, IAM, Lambda, EC2), Git |
+| Dev Tools | IntelliJ IDEA, VS Code, Maven, GitHub Actions |
+
+---
+
+### Featured Projects
+
+#### [java-event-bus](https://github.com/nedder3/java-event-bus) — Async High-Concurrency In-Memory Event Bus
+
+The flagship project. A lock-free event bus for modular monoliths that need sub-millisecond event dispatch without external broker overhead.
+
+- **Dispatch modes**: Fan-out to all subscribers or round-robin (only one consumer per event)
+- **Backpressure**: Bounded capacity with configurable overflow policy — REJECT (throws `RejectedExecutionException`) or DROP (silently discards, tracks via `Droppable.droppedCount`)
+- **Builder API**: Thread-safe with CAS-based internal state — immutable config after construction
+- **Non-blocking core**: Lock-free queue internals using `ConcurrentLinkedQueue`, zero `synchronized` blocks on the hot path
+- **42 tests**, all green — including concurrency stress tests with multiple producers/subscribers
+
+*Java 21, Concurrency API, ExecutorService, CompletableFuture, CAS*
+
+#### [distributed-cache-engine](https://github.com/nedder3/distributed-cache-engine) — Distributed In-Memory Cache
+
+Key-value cache with async cross-node replication. Eviction strategies (LRU, LFU), active-active replication for reliable internal networks. *In development.*
+
+#### [cqrs-core-lib](https://github.com/nedder3/cqrs-core-lib) — CQRS + Event Sourcing Framework
+
+Decoupled command/query separation with synchronous and asynchronous command buses. Real-time database projections via event triggers. *In development.*
+
+#### [custom-api-gateway](https://github.com/nedder3/custom-api-gateway) — L7 Reverse Proxy & API Gateway
+
+Dynamic Layer 7 router for microservices with built-in load balancing, pre/post-routing filters, Token Bucket rate limiting, and Circuit Breaker fault tolerance. *In development.*
+
+#### [rule-engine-core](https://github.com/nedder3/rule-engine-core) — Dynamic Business Rule Engine
+
+Runtime rule interpreter using DSL/JSON-defined conditional rules. Binary tree evaluation in microseconds against Java POJOs. Decouples volatile business logic from compiled code. *In development.*
+
+#### [auth-service-security](https://github.com/nedder3/auth-service-security) — OAuth2/OIDC Authorization Server
+
+Centralized auth for distributed systems. Async JWT issuance with asymmetric cryptography (RSA/ECDSA), JWKS endpoint for key rotation, MFA integration. *In development.*
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=nedder3&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Stats" height="170px" />
+  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nedder3&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Languages" height="170px" />
 </p>
 
-#### ⚙️ Arquitectura & Backend Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
-  <img src="https://img.shields.io/badge/gRPC-5391FE?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-</p>
-
-#### 💾 Datos & Sistemas Distribuidos
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
-#### 🐳 Infraestructura & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
 ---
 
-### 💻 Entorno de Desarrollo (Dev Setup)
+### Contact
 
-<div align="center">
-  <img src="https://img.shields.io/badge/IDE-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/S.O.-Windows_11-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Terminal-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-</div>
-
----
-
-### 🏛️ Proyectos Arquitectónicos Destacados
-
-*Menos aplicaciones de consumo, más componentes de infraestructura de software diseñados con rigurosidad matemática y lógica:*
-
-#### 🌀 [java-event-bus](https://github.com/nedder3/java-event-bus) — Event Bus Asíncrono de Alta Concurrencia
-> **Descripción:** Un bus de eventos asíncrono en memoria diseñado para sistemas monolíticos modulares de alto rendimiento.  
-> **Detalles Técnicos:** Basado en colas concurrentes y pools de hilos personalizados. Utiliza mecanismos de bloqueo no bloqueantes (*Non-blocking algorithms*) y propagación de eventos asíncronos con baja sobrecarga de memoria.
-> *   *Tecnologías:* Java 21, Concurrency API, ExecutorService.
-
-#### 💾 [distributed-cache-engine](https://github.com/nedder3/distributed-cache-engine) — Motor de Caché Distribuido In-Memory
-> **Descripción:** Un componente de almacenamiento en caché clave-valor distribuido capaz de replicar datos de forma asíncrona entre múltiples nodos.  
-> **Detalles Técnicos:** Implementa estrategias de desalojo avanzadas (LRU, LFU) y consistencia eventual mediante replicación activa-activa orientada a redes internas confiables.
-> *   *Tecnologías:* Java, gRPC, TCP Sockets, ConcurrentHashMap.
-
-#### ⚙️ [cqrs-core-lib](https://github.com/nedder3/cqrs-core-lib) — Librería de Arquitectura de Comandos y Consultas
-> **Descripción:** Framework desacoplado para la implementación del patrón CQRS (Command Query Responsibility Segregation) con soporte para Event Sourcing.  
-> **Detalles Técnicos:** Separación física de los modelos de lectura y escritura. Implementa bus de comandos síncrono/asíncrono y proyecciones de base de datos en tiempo real mediante disparadores de eventos.
-> *   *Tecnologías:* Java, Spring Core, Event Sourcing Pattern.
-
-#### 🚦 [custom-api-gateway](https://github.com/nedder3/custom-api-gateway) — API Gateway y Ruteador Inverso L7
-> **Descripción:** API Gateway y ruteador inverso dinámico de capa 7 para microservicios con balanceo de carga integrado.  
-> **Detalles Técnicos:** Implementa filtros de pre y post ruteo, políticas adaptativas de limitación de tasa (*Token Bucket Rate Limiting*) y manejo de tolerancia a fallas mediante Circuit Breaker.
-> *   *Tecnologías:* Java, Spring Cloud Gateway, Redis, Resilience4j.
-
-#### 🧠 [rule-engine-core](https://github.com/nedder3/rule-engine-core) — Motor de Reglas de Negocio Dinámico
-> **Descripción:** Un intérprete dinámico de reglas condicionales complejas para desacoplar flujos de negocio cambiantes del código compilado.  
-> **Detalles Técnicos:** Permite cargar reglas escritas en DSL o JSON durante el tiempo de ejecución y evaluarlas contra objetos Java (*POJOs*) en microsegundos usando evaluación de árbol binario.
-> *   *Tecnologías:* Java, Jackson, OOP Design Patterns.
-
-#### 🔒 [auth-service-security](https://github.com/nedder3/auth-service-security) — Servidor de Autorización Centralizado (OAuth2/OIDC)
-> **Descripción:** Sistema de autenticación y autorización seguro para arquitecturas distribuidas.  
-> **Detalles Técnicos:** Emisión y validación asíncrona de tokens JWT usando criptografía asimétrica (RSA/ECDSA), endpoints de JWKS para rotación de llaves, e integración transparente con mecanismos de MFA.
-> *   *Tecnologías:* Java, Spring Security OAuth2, PostgreSQL.
-
----
-
-### 📊 Estadísticas de Desarrollo
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-stats-extended.vercel.app/api?username=nedder3&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Estadísticas de nedder3" height="195px" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nedder3&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Lenguajes de nedder3" height="195px" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" colspan="2">
-        <img src="https://streak-stats.demolab.com/?user=nedder3&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Racha de nedder3" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🏅 Logros & Contribuciones
-
-*   👨‍🏫 **Mentoría y Formación:** Orientado a guiar a desarrolladores hacia el uso de buenas prácticas, Clean Code, patrones y estructuras mantenibles.
-*   📐 **Diseño de Integraciones:** Liderazgo en el modelado técnico e integración de múltiples microservicios concurrentes y APIs de terceros.
-
----
-
-### 🤝 Conectividad & Visitas
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu_usuario_linkedin)
-  [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=astro&logoColor=white)](https://nedder3.github.io)
-  [![Email](https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neddev3@gmail.com)
-
-  <br />
-  <br />
-
-  <img src="https://komarev.com/ghpvc/?username=nedder3&color=bb9af7&style=flat-square&label=Vistas%20de%20Perfil&v=4" alt="Perfil de nedder3" />
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ariel_Jaime-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ariel-jaime/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nedder3.github.io-181717?style=flat-square&logo=github&logoColor=white)](https://nedder3.github.io)
+[![Email](https://img.shields.io/badge/Email-neddev3@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:neddev3@gmail.com)
