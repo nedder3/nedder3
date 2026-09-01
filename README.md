@@ -29,6 +29,14 @@ Previously mentored development teams on Clean Architecture, SOLID, and domain-d
 
 ### Tech Stack
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-E34F26?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
 | Layer | Tools |
 |---|---|
 | Languages | Java 21, Python, C#, TypeScript, SQL |
@@ -36,6 +44,20 @@ Previously mentored development teams on Clean Architecture, SOLID, and domain-d
 | Data | PostgreSQL, Redis, Apache Kafka, SQLite |
 | Infrastructure | Docker, AWS (S3, IAM, Lambda, EC2), Git |
 | Dev Tools | IntelliJ IDEA, VS Code, Maven, GitHub Actions |
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/gRPC-5391FE?style=flat-square&logo=grpc&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
@@ -90,3 +112,9 @@ Centralized auth for distributed systems. Async JWT issuance with asymmetric cry
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ariel_Jaime-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ariel-jaime/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-nedder3.github.io-181717?style=flat-square&logo=github&logoColor=white)](https://nedder3.github.io)
 [![Email](https://img.shields.io/badge/Email-neddev3@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:neddev3@gmail.com)
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nedder3&color=bb9af7&style=flat-square&label=Profile+Views&v=4" alt="Profile views" />
+</p>
