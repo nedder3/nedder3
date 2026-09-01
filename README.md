@@ -111,7 +111,7 @@ Centralized auth for distributed systems. Async JWT issuance with asymmetric cry
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ariel_Jaime-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ariel-jaime/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-nedder3.github.io-181717?style=flat-square&logo=github&logoColor=white)](https://nedder3.github.io)
-[![Email](https://img.shields.io/badge/Email-neddev3@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arij.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-arij.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arij.dev@gmail.com)
 
 <br/>
 
