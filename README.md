@@ -10,7 +10,7 @@
     <a href="https://linkedin.com/in/ariel-jaime/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://nedder3.github.io"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
     <a href="mailto:arij.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://img.shields.io/badge/English-EF%20SET%20C2%20Proficient-0052CC?style=for-the-badge" alt="English C2" />
+    <img src="https://img.shields.io/badge/English-EF%20SET%20C1%20Advanced-0052CC?style=for-the-badge" alt="English C1" />
   </p>
 
   <p>
