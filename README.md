@@ -28,7 +28,7 @@
 
 Senior Backend Engineer and Distributed AI Systems Architect with **10 years of software engineering experience**, specializing for the past **6+ years in enterprise Java ecosystems, high-concurrency architectures, and distributed systems**. Proven track record architecting low-latency, fault-tolerant infrastructure components alongside **production-grade autonomous multi-agent AI swarms and knowledge graphs**.
 
-Currently serving as **Squad Senior / Tech Lead & Technical Mentor at Teamcubation**, leading engineering squads and coaching senior developers (15+ years industry experience) across modern cloud architectures, Java 21, and agentic engineering workflows.
+Currently serving as **Squad Senior / Tech Lead & Technical Mentor at Teamcubation**, leading engineering squads and coaching senior developers (10+ years industry experience) across modern cloud architectures, Java 21, and agentic engineering workflows.
 
 - **Distributed Systems & Concurrency:** Hexagonal architecture (Ports & Adapters), CQRS / Event Sourcing, Vector Clocks for causal ordering, Write-Ahead Logging (WAL) with CRC32 integrity, lock-free CAS primitives, and Java 21 Virtual Threads.
 - **Autonomous AI & Agentic Engineering:** Architected local 8-agent autonomous swarms with strict Single Responsibility Principles (SRP), automated Red/Green TDD quality gates, semantic knowledge graphs exceeding 33,000 nodes, and anti-hallucination deterministic extraction pipelines.
@@ -104,7 +104,7 @@ Engineering Rigor      : Test-Driven Development (TDD), JUnit 5, Mockito, Assert
 
 | Period | Role | Organization & Scope |
 |---|---|---|
-| **08/2025 – Present** | **Squad Senior / Tech Lead & Mentor** | **Teamcubation** — Technical mentoring for engineering squads and senior developers (15+ yrs); enterprise backend curriculum (18 modules across Java 21, Spring Boot, Microservices, and Agentic AI workflows). |
+| **08/2025 – Present** | **Squad Senior / Tech Lead & Mentor** | **Teamcubation** — Technical mentoring for engineering squads and senior developers (10+ yrs); enterprise backend curriculum (18 modules across Java 21, Spring Boot, Microservices, and Agentic AI workflows). |
 | **01/2024 – 08/2025** | **Programming Mentor** | **Alkemy** — Led technical mentorship across recurring developer acceleration cohorts, culminating in **MercadoLibre's** Java Spring Boot engineering pipeline. |
 | **11/2023 – 01/2024** | **Backend Developer** | **Right Partner** — Engineered mission-critical REST microservices in Java Spring Boot for healthcare enterprise client **Sancor Salud**. |
 | **01/2021 – 11/2022** | **Backend Instructor & Tech Lead** | **Digital House** — Delivered intensive backend engineering training for top tier-1 accounts (**MercadoLibre, Banco Santander, Globant, Sabre, Xpertal**). |
